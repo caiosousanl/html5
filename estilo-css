@@ -1,10 +1,12 @@
-@charset "UTF-8":
+@charset "UTF-8";
 
 body {
-    background-color: white;
-    color: rgba(0, 0, 0, 1);
+    background-image: url("pattern.jpg");
+    background-color: whitesmoke;
+    color: rgba(0, 0, 0, 0.8)
 }
+
 p {
-  text-align: justify;
-  text-indent: 50px;
+    text-align: justify;
+    text-indent: 50px;
 }
